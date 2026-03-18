@@ -79,11 +79,10 @@ public:
     {
         return capacity;
     }
-    auto getAvailabilityByDate() const
-    {
-        return availabilityByDate;
-    }
-
+    std::map<Date, int> getAvailabilityByDate() const
+{
+    return availabilityByDate;
+}
 
     bool isAvailable(const Date& date, int numRooms) const
     {

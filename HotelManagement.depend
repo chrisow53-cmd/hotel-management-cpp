@@ -49,3 +49,53 @@
 	"Booking.h"
 	"Date.h"
 
+1773860004 source:e:\unrelated to games\projects\hotel-management-cpp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iomanip>
+	<map>
+	<stdexcept>
+	<algorithm>
+	"Date.h"
+	"User.h"
+	"Booking.h"
+	"Room.h"
+	"StandardRoom.h"
+	"DeluxeRoom.h"
+	"SuiteRoom.h"
+	"Multifunction.h"
+
+1773863355 e:\unrelated to games\projects\hotel-management-cpp\date.h
+
+1773860004 e:\unrelated to games\projects\hotel-management-cpp\user.h
+	<string>
+
+1773860004 e:\unrelated to games\projects\hotel-management-cpp\booking.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1773864215 e:\unrelated to games\projects\hotel-management-cpp\room.h
+	<iostream>
+	<vector>
+	<map>
+	"Date.h"
+
+1773860004 e:\unrelated to games\projects\hotel-management-cpp\standardroom.h
+	"Room.h"
+
+1773860004 e:\unrelated to games\projects\hotel-management-cpp\deluxeroom.h
+	"Room.h"
+
+1773860004 e:\unrelated to games\projects\hotel-management-cpp\suiteroom.h
+	"Room.h"
+
+1773860004 e:\unrelated to games\projects\hotel-management-cpp\multifunction.h
+	"Room.h"
+	"User.h"
+	"Booking.h"
+	"Date.h"
+

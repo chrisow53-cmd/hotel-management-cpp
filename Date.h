@@ -12,7 +12,7 @@ private:
     int month;
     int day;
     int year;
-    static constexpr int monthDays[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+    static const int monthDays[12];
 
 public:
     class InvalidMonth
@@ -277,6 +277,6 @@ public:
     }
 };
 
-constexpr int Date::monthDays[12];
+const int Date::monthDays[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
 #endif // DATE_H_INCLUDED
