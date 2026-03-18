@@ -1,0 +1,31 @@
+Destination;Hotel;Room Type;Price;Capacity;Availability;Amenities;Rating
+Singapore;V Hotel Lavender;Deluxe;786.13;4;1;1 Queen bed|Breakfast for 1 pax|Swimming Pool|Parking|Central of Shopping Area;4
+Singapore;Orchard Hotel Singapore;Deluxe;1523.28;3;1;1 Double bed|Breakfast for 1 pax|Swimming Pool|Parking|Central of Shopping area;5
+Singapore;COMO Metropolitan Singapore;Suite;1808.61;5;1;1 King bed|Breakfast for 1 pax|Swimming Pool|Parking|Central of Shopping area;5
+Singapore;Sandpiper Hotel @ Little India;Standard;700.37;3;3;1 Double bed|No Breakfast|AC|Restaurant|Central of Shopping area;3
+Singapore;Travelodge HarbourFront Singapore;Deluxe;780.12;4;2;1 Queen bed |Breakfast for 1 pax|Swimming Pool|Restaurant|Near Recreation spot;4
+Singapore;Hotel Boss;Standard;486.12;2;2;1 Queen bed|No Breakfast| Swimming Pool|Parking|Gym;4
+Shanghai;Grand Kempinski Hotel Shanghai;Suite;1544.11;4;4;1 King bed|Breakfast for 1 pax|Swimming Pool|Restaurant|Bathub;5
+Shanghai;Shanghai Marriott Marquis City Centre;Deluxe;891.05;3;2;1 King Bed|Breakfast for 1 pax|Swimming Pool|Restaurant|Central of Shopping Area;5
+Shanghai;Pudong Shangri-La Shanghai;Suite;1237.38;3;1;1 King Bed|Breakfast for 1 pax|Swimming Pool|Restaurant|Bathub;5
+Shanghai;SSAW Boutique Hotel Shanghai Bund;Standard;633.78;3;3;2 Twin Bed|No Breakfast|Restaurant|AC|Shower;4
+Shanghai;Courtyard by Mariott Shanghai;Standard;470.91;2;2;1 King Bed|No Breakfast|Swimming Pool|Restaurant|Shower;4
+Shanghai;The Ritz-Carlton Shanghai, Pudong;Suite;2617.5;3;2;1King Bed|Breakfast for 1 pax|Swimming Pool|Restaurant|Bathub;5
+Bali;Aryaduta Bali;Deluxe;4245.65;3;1;1 King Bed|Breakfast for 1 pax|Swimming Pool|Restaurant|Parking;5
+Bali;VOUK Hotel & Suites;Suite;577.96;4;2;1 Double Bed|No Breakfast|Swimming Pool|Parking|Balcony or Terrace;5
+Bali;HARRIS Hotel Kuta Galleria;Standard;585.09;2;1;1 Double Bed|No Breakfast|Restaurant|Parking|Central of Shopping Area;4
+Bali;The Crystal Luxury Bay Nusa Dua;Deluxe;739.19;3;3;1 King Bed|Breakfast for 1 pax|Swimming Pool|Restaurant|Bathub;5
+Bali;The Stones Hotel - Legian, Bali;Deluxe;1406.87;4;5;2 Single Bed|Breakfast for 1 pax|Swimming Pool|Parking|Shower;5
+Bali;Stark Boutique Hoteland Spa;Standard;683.29;2;2;1 Double Bed|Breakfast for 1 pax|Swimming Pool| Parking|Restaurant;3
+Bangkok;Siam Keimpinski Hotel Bangkok;Suite;6488.43;4;2;1 King Bed|Breakfast for 1 pax|Swimming Pool|Parking|Beach;5
+Bangkok;Bangkok Palace;Deluxe;463.44;3;2;1 Double Bed|Breakfast for 1 pax|Sauna|Swimming Pool|Restaurant;5
+Bangkok;Spittze Hotel Pratunam;Standard;1051.91;3;1;1 Double Bed|Breakfast for 1 pax|Balcony or Terrace|Parking|Restaurant;3
+Bangkok;Grande Center Point Ploenchit;Suite;4223.16;5;5;2 Twin Bed|Breakfast for 1 pax|Fitness Center|Spa|Seating Area;5
+Bangkok;The Quarter Phromphong by UHG;Deluxe;930.23;3;1;1 King Bed|Breakfast for 1 pax|Mini Golf|Fitness Center|Rooftop Terrace;4
+Bangkok;Novotel Bangkok Suvarnabhumi;Standard;979.15;2;3;1 King Bed|No Breakfast|Swimming Pool|Parking|Shower;4
+Kuala Lumpur;ANSA Hotel Kuala Lumpur;Deluxe;702.70;3;1;2 Twin Bed|No Breakfast|Parking|AC|Shower;4
+Kuala Lumpur;Ascott Star KLCC;Deluxe;797.88;4;2;1 Double Bed|No Breakfast|Shower|Swimming Pool|Fitness Area;5
+Kuala Lumpur;Grand Hyatt Kuala Lumpur;Suite;1860.12;3;2;1 King Bed|Breakfast for 1 pax|Bathub|Swimming Pool|Parking;5
+Kuala Lumpur;The Kuala Lumpur Journal Hotel;Deluxe;1135.84;4;5;1 King Bed|Breakfast for 1 pax|Free Mini Bar|Swimming Pool|Parking;4
+Kuala Lumpur;Zentih Hotel Putrajaya;Suite;1177.10;5;2;1 King Bed|Breakfast for 1 pax|Bathub|Swimming Pool|Seating Area;5
+Kuala Lumpur;Eastin Hotel Kuala Lumpur;Deluxe;283.55;3;1;1 Twin Bed|Breakfast for 1 pax|Bathub|Swimming Pool|Parking;5

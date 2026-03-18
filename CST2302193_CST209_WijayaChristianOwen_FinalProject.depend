@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1735655527 source:e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iomanip>
+	<map>
+	<stdexcept>
+	<algorithm>
+	"Date.h"
+	"User.h"
+	"Booking.h"
+	"Room.h"
+	"StandardRoom.h"
+	"DeluxeRoom.h"
+	"SuiteRoom.h"
+	"Multifunction.h"
+
+1735640267 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\date.h
+
+1735640267 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\user.h
+	<string>
+
+1735640267 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\booking.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1735640245 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\room.h
+	<iostream>
+	<vector>
+	<map>
+	"Date.h"
+
+1735640267 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\standardroom.h
+	"Room.h"
+
+1735640267 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\deluxeroom.h
+	"Room.h"
+
+1735640267 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\suiteroom.h
+	"Room.h"
+
+1735655530 e:\unrelated to games\cst major notes\sept2024\design and analysis of algorithms\cst2302193_cst209_wijayachristianowen_finalproject\multifunction.h
+	"Room.h"
+	"User.h"
+	"Booking.h"
+	"Date.h"
+
